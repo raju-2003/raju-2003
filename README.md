@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Narayanan B</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a proactive learner with a keen interest in software development and problem-solving in diverse environments. As a software engineer, I have expertise in various programming languages, web development, machine learning, cybersecurity, and automation.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
